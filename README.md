@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am the guy who keeps your stuff running. It's no magic 🧙, it is proper engineering 🧠!
+
+... challenge accepted!
+
 <!--
 **f7o/f7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
