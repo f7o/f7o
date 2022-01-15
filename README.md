@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the guy who keeps your stuff running. It's no magic 🧙, it is proper engineering 🧠!
+I am the guy who gets your systems up and running. It's no magic 🧙, it is proper engineering 🧠!
 
 ... challenge accepted!
 
